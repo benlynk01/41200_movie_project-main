@@ -1,0 +1,27 @@
+.movie-detail-container{
+    margin-top: 100px;
+    padding: 50px 50px;
+}
+
+.movie-container {
+    display: flex;
+    align-items: flex-start;
+}
+
+.movie-thumbnail-container {
+    flex: 0 0 auto;
+}
+
+.movie-thumbnail {
+    width: 300px;
+    height: auto;
+}
+
+.movie-details {
+    color: white;
+    margin-left: 20px; /* Adjust as needed */
+}
+
+.button-container {
+    margin-top: 20px; /* Adjust as needed */
+}

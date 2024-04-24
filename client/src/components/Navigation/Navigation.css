@@ -1,0 +1,11 @@
+.navbar {
+    margin-bottom: 20px;
+    height: 50px;
+    background-color: rgb(43, 43, 43);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.295);
+}
+
+.navbar-brand {
+    font-weight: bold;
+    color: red;
+  }

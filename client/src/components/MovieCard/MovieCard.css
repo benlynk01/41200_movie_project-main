@@ -1,0 +1,18 @@
+.movie-card {
+    display: flex;
+    justify-content: center;
+}
+
+.thumbnail-wrapper {
+    width: 100%;
+    height: 270px;
+    overflow: hidden;
+}
+
+.thumbnail {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+
+

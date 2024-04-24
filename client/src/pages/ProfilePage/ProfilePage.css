@@ -1,0 +1,57 @@
+.profile-container{
+    padding: 40px 50px;
+    min-height: 75vh;
+}
+
+.profile-container h1 {
+    color: white;
+    font-size: 60px;
+    text-align: left;
+}
+
+.profile-container h2{
+    color: white;
+    margin-top: 20px;
+    font-size: 30px;
+}
+
+.profile-container button{
+    margin-top: 50px;
+}
+
+.options-container {
+    display: flex;
+    justify-content: left;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.options-container button {
+    background: none;
+    border: none;
+    font-size: 16px;
+    color: #000;
+    cursor: pointer;
+    text-decoration: none;
+    margin: 0 10px;
+    color: white;
+    padding: 0;
+}
+
+.options-container button:hover {
+    text-decoration: underline;
+}
+
+.options-container button.active {
+    text-decoration: underline;
+}
+
+.account-info{
+    padding: 10px;
+    color: white;
+    text-align: left;
+}
+
+.account-info p{
+    margin-top: 10px;
+}
